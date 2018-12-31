@@ -80,7 +80,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : @danielkein
+  username               : "@danielkein"
 facebook:
   username               :
   app_id                 :
@@ -106,7 +106,7 @@ author:
   name             : "Daniel Kein"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is my new website and blog"
-  location         : "Winnipeg"
+  location         : "Winnipeg, MB"
   email            :
   links:
     - label: "Email"
