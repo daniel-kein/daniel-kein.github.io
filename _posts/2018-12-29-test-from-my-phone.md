@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum in lorem sed 
 
 Nam lobortis augue laoreet varius mollis. Fusce dictum blandit dui. Mauris eleifend congue ante, quis bibendum nisl faucibus sit amet. Donec cursus bibendum odio. Suspendisse tristique massa non sem bibendum imperdiet. Duis auctor est eu tortor pulvinar, quis sagittis arcu tincidunt. In magna ipsum, commodo non eros sit amet, rhoncus cursus risus.
 
-
+<!--more-->
 
 This is paragraph 3
 
